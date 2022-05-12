@@ -1,4 +1,4 @@
-# 📄 LabEddit : Social bookmarks baseado no reedit
+# 💻 LabEddit : Social bookmarks baseado no reedit
 
 ### :dart: Objetivo do projeto
 Último projeto individual da trilha front-end do bootcamp de desenvolvimento web fullstack da Labenu.  Seu intuito é rever todos os conteúdos do curso de maneira prática e fazer uma aplicação completa. É importante destacar que esse é uma aplicação do tipo Mobile First.
@@ -28,7 +28,7 @@
     *  Cada comentário também deverá ter a lógica dos votos
    
 
-## ✔️ Funcionalidades
+## ⚙️ Funcionalidades
 - Navegação entre as páginas utilizando o react-router-dom
 - Autenticação e Proteção das páginas privadas
 - Usuários não logados são redirecionados para a página de login
@@ -50,10 +50,10 @@
 ## 🔗 Link Surge 
 [Acesse a página do LabEddit](https://labeddit-layaneb-shaw.surge.sh/)
 
-##  :computer: DevaDiva
+##  👨‍💻 Desenvolvedora
 
-|[Layane Bastos](https://github.com/LayaneB) |
-| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/50851374?v=4" width=115><br><sub>Layane Bastos Juvito</sub>](https://www.linkedin.com/in/layanebastos/)
+| :---: | 
 
 ## 📷 Imagens
 #### MOBILE (Usando como modelo o iphone 12 Pro)
