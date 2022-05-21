@@ -1,9 +1,11 @@
 import KeyboardDoubleArrowUpOutlinedIcon from '@mui/icons-material/KeyboardDoubleArrowUpOutlined'
 import KeyboardDoubleArrowDownOutlinedIcon from '@mui/icons-material/KeyboardDoubleArrowDownOutlined'
-import ChatBubbleOutlineSharpIcon from '@mui/icons-material/ChatBubbleOutlineSharp'
+import ThumbUpAltSharpIcon from '@mui/icons-material/ThumbUpAltSharp'
+import ThumbDownAltSharpIcon from '@mui/icons-material/ThumbDownAltSharp';
 import { BodyContainer, CardContainer, CommentsContainer, PostStatusContainer, SendBy, VoteDown, VotesContainer, VoteUp, CommentButton, BodyText, TitleText } from './style'
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
+import ForumSharpIcon from '@mui/icons-material/ForumSharp';
 
 
 const CardPost = ({ post, voteUp, voteDown, showTitle, showBody, showComments }) => {
@@ -29,19 +31,19 @@ const CardPost = ({ post, voteUp, voteDown, showTitle, showBody, showComments })
                 <VotesContainer>
 
                     <VoteUp
-                        onClick={() => voteUp(post.id, post.userVote)}
+                        onClick={voteUp}
                         color={post.userVote}
                     >
-                        <KeyboardDoubleArrowUpOutlinedIcon />
+                        <ThumbUpAltSharpIcon />
                     </VoteUp>
 
-                    <span>{post.voteSum}</span>
+                    <span>{post.voteSum ? post.voteSum : 0}</span>
 
                     <VoteDown
-                        onClick={() => voteDown(post.id, post.userVote)}
+                        onClick={voteDown}
                         color={post.userVote}
                     >
-                        <KeyboardDoubleArrowDownOutlinedIcon />
+                        <ThumbDownAltSharpIcon />
                     </VoteDown>
 
                 </VotesContainer>
@@ -50,10 +52,10 @@ const CardPost = ({ post, voteUp, voteDown, showTitle, showBody, showComments })
                     showComments && <CommentsContainer>
 
                         <CommentButton onClick={goToPost}>
-                            <ChatBubbleOutlineSharpIcon />
+                            <ForumSharpIcon />
                         </CommentButton>
 
-                        <span>{post.commentCount}</span>
+                        <span>{post.commentCount ? post.commentCount : 0}</span>
 
                     </CommentsContainer>
                 }
