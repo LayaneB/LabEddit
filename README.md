@@ -48,7 +48,7 @@
 - [material ui](https://mui.com/pt/)
 
 ## 🔗 Link Surge 
-[Acesse a página do LabEddit](https://labeddit-layaneb-shaw.surge.sh/)
+Acesse a página do LabEddit [clicando aqui](https://labeddit-layaneb-shaw.surge.sh/)
 
 ##  👩🏻‍💻 Desenvolvedora
 
