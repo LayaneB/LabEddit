@@ -59,13 +59,13 @@
 #### MOBILE (Usando como modelo o iphone 12 Pro)
 ![image](https://user-images.githubusercontent.com/50851374/167972947-1915e75a-78b5-42b6-9894-9a5e7b90a61c.png)
 ![image](https://user-images.githubusercontent.com/50851374/167973002-cb92651c-fba4-4d96-83eb-5b9a1c808e8c.png)
-![image](https://user-images.githubusercontent.com/50851374/167974101-0df0359f-d3cd-468c-a470-3d786467516b.png)
-![image](https://user-images.githubusercontent.com/50851374/167974585-e23e73d7-334c-441a-bbeb-6b10df2946f5.png)
+![image](https://user-images.githubusercontent.com/50851374/168402496-be07bb78-a55f-417d-b6a5-9a49e34dbfa1.png)
+![image](https://user-images.githubusercontent.com/50851374/168402454-984fd925-6137-476a-b206-ac0109deb5cb.png)
 ![image](https://user-images.githubusercontent.com/50851374/167975206-b119c22f-7811-40c7-869f-9704b8278e29.png)
 
 #### DESKTOP
 ![image](https://user-images.githubusercontent.com/50851374/167975059-68f26499-bf8d-4376-b9aa-522c9191a51b.png)
 ![image](https://user-images.githubusercontent.com/50851374/167975100-5dbab007-1282-4be1-b00d-b04f415dc1eb.png)
-![image](https://user-images.githubusercontent.com/50851374/167975003-17d2cd81-4bbe-4631-836f-744848df5b70.png)
-![image](https://user-images.githubusercontent.com/50851374/167974946-58fea8d2-87b1-4f53-8583-65bf1f42599b.png)
+![image](https://user-images.githubusercontent.com/50851374/168402140-afb9c502-468b-4a89-9935-97a226385f5a.png)
+![image](https://user-images.githubusercontent.com/50851374/168402406-6704b0ac-9da5-4e50-8ffa-57202f436876.png)
 ![image](https://user-images.githubusercontent.com/50851374/167975156-08993200-d493-4807-bb6b-4975abd52891.png)
